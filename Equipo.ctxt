@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombre\ maximo
+comment0.target=Equipo(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Equipo\r\n
+comment1.params=i
+comment1.target=Jugador\ getJugador(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=i
+comment2.target=Jugador\ getReserva(int)
+comment3.params=
+comment3.target=float\ getValoracionMediaTitulares()
+comment4.params=
+comment4.target=void\ printEquipo()
+numComments=5

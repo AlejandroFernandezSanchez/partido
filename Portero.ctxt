@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Portero()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ JugadorDeCampo\r\n
+comment1.params=
+comment1.target=int\ fortalezaMental()
+comment2.params=
+comment2.target=int\ agilidad()
+comment3.params=
+comment3.target=int\ valoracion()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
